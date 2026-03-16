@@ -1,3 +1,6 @@
+from thing import Thing
+from agent import Agent
+
 class Environment:
 
     def __init__(self):

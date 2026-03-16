@@ -1,3 +1,5 @@
+from thing import Thing
+
 class Agent(Thing):
     def __init__(self, program=None):
         self.alive = True
