@@ -1,5 +1,5 @@
-from thing import Thing
-from agent import Agent
+from exe1.Thing import Thing
+from exe1.Agent import Agent
 
 class Environment:
 

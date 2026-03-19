@@ -1,4 +1,4 @@
-from agent import Agent
+from exe1.Agent import Agent
 
 class myAgent(Agent):
 

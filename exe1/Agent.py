@@ -1,4 +1,4 @@
-from thing import Thing
+from exe1.Thing import Thing
 
 class Agent(Thing):
     def __init__(self, program=None):
